@@ -12,7 +12,7 @@ function Sidebar() {
     { label: 'Education', to: 'education' },
     { label: 'Interests', to: 'interests' },
     { label: 'The End', to: 'the-end' },
-    { label: 'Download PDF', to: '/files/DO TRUNG QUAN - FrontEnd Developer.pdf', download: true },
+    { label: 'Download PDF', to: '/files/Bui Huu Trung - FrontEnd Developer.pdf', download: true },
   ];
 
   return (
